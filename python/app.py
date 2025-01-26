@@ -56,7 +56,7 @@ while True:
         
         for i in users:
             if users:
-                #clear_screen()
+                
                 print(i.description())
                 print("*" * 30)
             else:
