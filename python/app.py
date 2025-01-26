@@ -1,6 +1,6 @@
 import time
 import os
-import os
+
 
 def clear_screen():
     if os.name == 'nt':
