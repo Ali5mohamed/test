@@ -58,7 +58,7 @@ while True:
             if users:
                 
                 print(i.description())
-                print("*" * 30)
+                print("*" * 35)
             else:
                 print("There are no users currently") 
     
